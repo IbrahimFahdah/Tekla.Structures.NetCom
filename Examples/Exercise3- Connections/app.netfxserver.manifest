@@ -1,0 +1,12 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<assembly manifestVersion="1.0" xmlns="urn:schemas-microsoft-com:asm.v1">
+	<dependency>
+		<dependentAssembly>
+			<!-- RegFree COM matching the registration of the generated managed COM server -->
+			<assemblyIdentity
+				type="win32"
+				name="Tekla.Structures.Introp"
+				version="1.0.0.0"/>
+		</dependentAssembly>
+	</dependency>
+</assembly>

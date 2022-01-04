@@ -1,0 +1,14 @@
+﻿namespace Tekla.Introp.Contracts.Structures.Model.Enums
+{
+    public enum RebarGroupSpacingTypeEnum
+    {
+        SPACING_TYPE_UNDEFINED,
+        SPACING_TYPE_EXACT_SPACINGS,
+        SPACING_TYPE_EXACT_NUMBER,
+        SPACING_TYPE_TARGET_SPACE,
+        SPACING_TYPE_EXACT_SPACE_FLEX_AT_START,
+        SPACING_TYPE_EXACT_SPACE_FLEX_AT_END,
+        SPACING_TYPE_EXACT_SPACE_FLEX_AT_BOTH,
+        SPACING_TYPE_EXACT_SPACE_FLEX_AT_MIDDLE
+    }
+}
