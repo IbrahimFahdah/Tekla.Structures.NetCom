@@ -11,40 +11,40 @@
 
 	<ItemGroup>
 		<Reference Include="Tekla.Application.Library">
-			<HintPath>..\Libs\Tekla.Application.Library.dll</HintPath>
+			<HintPath>..\..\Libs\Tekla.Application.Library.dll</HintPath>
 			<Private>False</Private>
 		</Reference>
 		<Reference Include="Tekla.Structures">
 			<Private>False</Private>
-			<HintPath>..\Libs\Tekla.Structures.dll</HintPath>
+			<HintPath>..\..\Libs\Tekla.Structures.dll</HintPath>
 		</Reference>
 		<Reference Include="Tekla.Structures.Analysis">
 			<Private>False</Private>
-			<HintPath>..\Libs\Tekla.Structures.Analysis.dll</HintPath>
+			<HintPath>..\..\Libs\Tekla.Structures.Analysis.dll</HintPath>
 		</Reference>
 		<Reference Include="Tekla.Structures.Catalogs">
 			<Private>False</Private>
-			<HintPath>..\Libs\Tekla.Structures.Catalogs.dll</HintPath>
+			<HintPath>..\..\Libs\Tekla.Structures.Catalogs.dll</HintPath>
 		</Reference>
 		<Reference Include="Tekla.Structures.Datatype">
 			<Private>False</Private>
-			<HintPath>..\Libs\Tekla.Structures.Datatype.dll</HintPath>
+			<HintPath>..\..\Libs\Tekla.Structures.Datatype.dll</HintPath>
 		</Reference>
 		<Reference Include="Tekla.Structures.Dialog">
 			<Private>False</Private>
-			<HintPath>..\Libs\Tekla.Structures.Dialog.dll</HintPath>
+			<HintPath>..\..\Libs\Tekla.Structures.Dialog.dll</HintPath>
 		</Reference>
 		<Reference Include="Tekla.Structures.Drawing">
 			<Private>False</Private>
-			<HintPath>..\Libs\Tekla.Structures.Drawing.dll</HintPath>
+			<HintPath>..\..\Libs\Tekla.Structures.Drawing.dll</HintPath>
 		</Reference>
 		<Reference Include="Tekla.Structures.Model">
 			<Private>False</Private>
-			<HintPath>..\Libs\Tekla.Structures.Model.dll</HintPath>
+			<HintPath>..\..\Libs\Tekla.Structures.Model.dll</HintPath>
 		</Reference>
 		<Reference Include="Tekla.Structures.Plugins">
 			<Private>False</Private>
-			<HintPath>..\Libs\Tekla.Structures.Plugins.dll</HintPath>
+			<HintPath>..\..\Libs\Tekla.Structures.Plugins.dll</HintPath>
 		</Reference>
 	</ItemGroup>
 </Project>
